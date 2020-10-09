@@ -1,4 +1,3 @@
-#python color_tracking.py --video balls.mp4
 #python color_tracking.py
 
 # import the necessary packages
